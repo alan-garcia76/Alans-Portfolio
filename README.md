@@ -2,9 +2,9 @@
 This repository contains financial and data analysis projects using Microsoft Excel and SQL.
 
 ## 📂 Project Structure  
-- [Analysis of Sales](./Project1)  
-- [Budget Variance Analysis](./Project2)  
-- [Three Financial Statement Model](./Project3)  
+1.  [Analysis of Sales](./Project1)  
+2.  [Budget Variance Analysis](./Project2)  
+3.  [Three Financial Statement Model](./Project3)  
 
 ## 📊 Project Details  
 ### 1️⃣ Analysis of Sales
