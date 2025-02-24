@@ -2,9 +2,9 @@
 This repository contains financial and data analysis projects using Microsoft Excel and SQL.
 
 ## 📂 Project Structure  
-1.  [Sales Trend Analysis](./Project1)  
-2.  [Budget Variance Analysis](./Project2)  
-3.  [Three Financial Statement Model](./Project3)  
+1.  [Sales Trend Analysis](https://1drv.ms/x/c/f14e517e87ada3df/EWt1A0BiIJRLhPhBSJlK2ZIBcsqWQIq9Q0xvhrSby0AKag?e=CjFTLB)  
+2.  [Budget Variance Analysis](https://1drv.ms/x/c/f14e517e87ada3df/EYtL5y1gEAlHjsVd9zSSkG0B3XUZZlw9jGtaSi84JUcMSQ?e=OPzl1X)  
+3.  [Three Financial Statement Model](https://1drv.ms/x/c/f14e517e87ada3df/EdAlsmQWsrFIvrDOuTIYROsBg6O2RFM1_OaBHq5cfndBXA?e=SKU1lk)  
 
 ## 📊 Project Details  
 ### 1️⃣ Analysis of Sales
